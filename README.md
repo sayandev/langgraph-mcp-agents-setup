@@ -127,7 +127,8 @@ Finally, click the "Apply" button to apply the changes to initialize the agent w
 3. Add the MCP server instruction to be used accross various agent development, feel free to use the smaple instruction to being with provided below. (mcp_server_remote.py; Line 20)
 4. Import the various agents/ MCP tools. (app.py; Line 45 & Line 52)
 
-*** MCP server instruction starters: ***
+#### MCP server instruction starters:
+
 "You are a Zwigato customer support assistant for food delivery. "
 "Use the available tools to help customers with their Zwigato orders and queries. "
 "If a customer asks about Zwigato services, policies (like cancellation, refunds), or membership (like Zwigato Gold), use the 'search_wiki' tool. "
