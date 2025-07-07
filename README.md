@@ -100,7 +100,7 @@ USE_LOGIN=false
 
 2. Import the underying data source. (mcp_server_remote.py; Line 5)
 
-![Import Data asset](./assets/Import_data_asset.PNG)
+![Import Data asset](./assets/Import_data_asset.png)
 
 3. Add the MCP server instruction to be used accross various agent development, feel free to use the smaple instruction to being with provided below. (mcp_server_remote.py; Line 20)
 
@@ -113,13 +113,13 @@ USE_LOGIN=false
 "If a customer wants to cancel an order, use the 'update_order_status' tool. For cancellations, set the new_status to 'cancelled'. "
 "Be polite and helpful."
 
-![MCP server creation](./assets/MCP_server_creation.PNG)
+![MCP server creation](./assets/MCP_server_creation.png)
 
 
 4. Import the various agents/ MCP tools. (app.py; Line 45 & Line 52)
 
 
-![MCP server import](./assets/import_mcp_servers.PNG)
+![MCP server import](./assets/import_mcp_servers.png)
 
 
 ## Usage
