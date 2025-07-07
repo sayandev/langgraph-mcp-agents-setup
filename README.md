@@ -1,4 +1,4 @@
-# LangGraph Agents + MCP: IK Inperson Demo
+# LangGraph Agents + MCP: IK Demo
 
 
 ## Project Overview
