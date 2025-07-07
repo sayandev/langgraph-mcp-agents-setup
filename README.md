@@ -41,12 +41,19 @@ git clone
 cd langgraph-mcp-agents
 ```
 
-2. Create a virtual environment and install dependencies using uv
+2. Create a virtual environment and install dependencies.
 
 ```bash
-uv venv
-uv pip install -r requirements.txt
-source .venv/bin/activate  # For Windows: .venv\Scripts\activate
+# create virtual enviornment replace the content $$
+python -m venv $virtual_env_name$
+# Unix/ MAC
+source $virtual_env_name$/bin/activate
+# Windows
+$virtual_env_name$\Scripts\activate
+#Install the libraries
+pip install -r requirements.txt
+# If require to deactivate the virtual enviornment
+deactivate
 ```
 
 3. Create a `.env` file with your API keys (copy from `.env.example`)
