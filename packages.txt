@@ -1,0 +1,5 @@
+curl
+gnupg
+ca-certificates
+nodejs
+npm
