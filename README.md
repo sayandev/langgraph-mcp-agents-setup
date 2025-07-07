@@ -136,33 +136,17 @@ streamlit run app.py
 
 3.  One way to configure MCP tools is to use the sidebar. However we will build MCP tools ourselves following the steps mentioned in the section above.
 
+4. Apply the agent's settings.
 
-Visit [Smithery](https://smithery.ai/) to find useful MCP servers.
+![check status](./assets/apply_setting.PNG)
 
-First, select the tool you want to use.
+5. It will take few moments to get the agent's settings applied.
 
-Click the COPY button in the JSON configuration on the right.
+![check status](./assets/settings_geting_applied.PNG)
 
-![copy from Smithery](./assets/smithery-copy-json.png)
+6. Interact with the ReAct agent that utilizes the configured MCP tools by asking questions in the chat interface.
 
-Paste the copied JSON string in the `Tool JSON` section.
-
-<img src="./assets/add-tools.png" alt="tool json" style="width: auto; height: auto;">
-
-Click the `Add Tool` button to add it to the "Registered Tools List" section.
-
-Finally, click the "Apply" button to apply the changes to initialize the agent with the new tools.
-
-<img src="./assets/apply-tool-configuration.png" alt="tool json" style="width: auto; height: auto;">
-
-4. Check the agent's status.
-
-![check status](./assets/check-status.png)
-
-5. Interact with the ReAct agent that utilizes the configured MCP tools by asking questions in the chat interface.
-
-![project demo](./assets/project-demo.png)
-
+![project demo](./assets/ready_to_chat.PNG)
 
 
 
