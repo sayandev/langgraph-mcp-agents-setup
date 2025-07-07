@@ -24,6 +24,12 @@ The Model Context Protocol (MCP) consists of three main components:
 3. **MCP Server**: A lightweight program that exposes specific functionalities through a standardized model context protocol, serving as the primary data source.
 
 
+## Software Installation Prior to using the Source Code
+
+1. Verify Python version: MCP python librray library requires Python 3.10+ (with 3.12 recommended). The MCP Python REPL Server requires Python 3.11+. Please make sure to update the underlying Python version.
+
+2. Install VS code community edition to navigate the codebase & edit.
+https://code.visualstudio.com/docs/setup/setup-overview
 
 
 ## Using Source Code
