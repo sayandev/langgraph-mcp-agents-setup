@@ -122,34 +122,6 @@ USE_LOGIN=false
 ![MCP server import](./assets/import_mcp_servers.png)
 
 
-## Usage
-
-1. Start the Streamlit application.
-
-```bash
-streamlit run app.py
-```
-
-2. The application will run in the browser and display the main interface.
-
-![example execution](./assets/app_launch.PNG)
-
-3.  One way to configure MCP tools is to use the sidebar. However we will build MCP tools ourselves following the steps mentioned in the section above.
-
-4. Apply the agent's settings.
-
-![check status](./assets/apply_setting.PNG)
-
-5. It will take few moments to get the agent's settings applied.
-
-![check status](./assets/settings_geting_applied.PNG)
-
-6. Interact with the ReAct agent that utilizes the configured MCP tools by asking questions in the chat interface.
-
-![project demo](./assets/ready_to_chat.PNG)
-
-
-
 
 ## References
 
