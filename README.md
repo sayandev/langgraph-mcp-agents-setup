@@ -37,7 +37,7 @@ https://code.visualstudio.com/docs/setup/setup-overview
 1. Clone this repository
 
 ```bash
-git clone <link>
+git clone <HTTPS link>
 
 cd langgraph-mcp-agents
 ```
