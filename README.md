@@ -34,6 +34,9 @@ https://code.visualstudio.com/docs/setup/setup-overview
 
 ## Using Source Code
 
+Make sure you have latest python version in your machine.
+
+
 1. Clone this repository
 
 ```bash
