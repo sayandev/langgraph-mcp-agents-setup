@@ -39,7 +39,7 @@ https://code.visualstudio.com/docs/setup/setup-overview
 ```bash
 git clone <HTTPS link>
 
-cd langgraph-mcp-agents
+cd langgraph-mcp-agents-setup
 ```
 
 2. Create a virtual environment and install dependencies.
